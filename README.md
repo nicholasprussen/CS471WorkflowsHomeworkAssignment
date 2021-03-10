@@ -119,3 +119,9 @@ Answer the corresponding questions in the [Blackboard](https://blackboard.boises
 Complete task `#6` according to its specifications.
 
 Answer the corresponding questions in the [Blackboard](https://blackboard.boisestate.edu/) assignment.
+
+commit 1
+
+commit 2
+
+commit 3
